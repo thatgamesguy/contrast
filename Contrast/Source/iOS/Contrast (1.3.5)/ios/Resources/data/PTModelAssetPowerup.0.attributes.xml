@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>690</string>
+                <key>className</key>
+                <string>PTModelAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>pickup</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>691</string>
+                    <key>className</key>
+                    <string>PTModelPolygon</string>
+                    <key>points</key>
+                    <array>
+                        <string>{-16.000000,-16.000000}</string>
+                        <string>{16.000000,-16.000000}</string>
+                        <string>{16.000000,16.000000}</string>
+                        <string>{-16.000000,16.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>1</string>
+                </dict>
+                <key>Powerup Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPowerupGameplay</string>
+                </dict>
+                <key>Animation Placement</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPowerupFreeConstraint</string>
+                </dict>
+                <key>Animation Behaviour</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kOverlayBehaviour</string>
+                </dict>
+                <key>Animation Repeat</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kLoopedAnimation</string>
+                </dict>
+                <key>Reward Coins</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Show coin reward</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Show points reward</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{45.000,0.003}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Speed Min</key>
+                <dict>
+                    <key>value</key>
+                    <string>125.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Speed Max</key>
+                <dict>
+                    <key>value</key>
+                    <string>125.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>50.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Time Warp</key>
+                <dict>
+                    <key>value</key>
+                    <string>50.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Velocity Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>80.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>50.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Score Multiplier</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{100.000,100.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Direction</key>
+                <dict>
+                    <key>value</key>
+                    <string>-90.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>

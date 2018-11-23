@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>7315</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Synth_bl-xk-87_hifi.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7717</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Sadness_0.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>11096</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>action-2.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
+        </array>
+    </dict>
+</plist>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>11232</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{16.667,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Timeout</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                </dict>
+                <key>Rotation Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.500000</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.850,1.000}</string>
+                </dict>
+                <key>Direct Movement</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Fixed Rotation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
